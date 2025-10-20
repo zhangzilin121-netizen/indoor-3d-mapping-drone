@@ -29,3 +29,7 @@ We mainly performed parameter tuning, interface mapping, and safety gating for i
 
 ## Credits
 - Base algorithms/framework: **Ano Flight Control** (Anonymous Tech).
+
+## Hardware
+- Hardware source (Altium) is provided in **Release: v0.2-hardware-baseline** (Assets).
+- A copy is also kept in this repo (root ZIP).
